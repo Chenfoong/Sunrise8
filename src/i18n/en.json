@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "programs": "Programs",
+    "cambridge": "Cambridge IGCSE",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Sunrise Education",
+    "subtitle": "A truly caring international school focused on child growth and happiness",
+    "cta": "Learn More"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "primary": "Primary Education",
+    "primaryDesc": "Comprehensive primary education for ages 7-11",
+    "secondary": "Secondary Education",
+    "secondaryDesc": "Cambridge IGCSE pathway for ages 12-18",
+    "homeschool": "Sunrise Homeschool",
+    "homeschoolDesc": "Personalized learning solutions for families"
+  },
+  "cambridge": {
+    "title": "Cambridge IGCSE",
+    "description": "International General Certificate of Secondary Education",
+    "recognized": "Globally recognized qualification",
+    "subjects": "Comprehensive subject offerings",
+    "support": "Expert faculty support"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "phone": "+60 12-425 1556",
+    "email": "LOVE@sun.edu.my",
+    "address": "No. 25-2nd Floor, Jalan Mahogani 5/Ks7, 41200 Klang, Selangor, Malaysia",
+    "followUs": "Follow Us",
+    "whatsapp": "WhatsApp",
+    "directions": "Get Directions"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "aiAssistant": "Ask AI Assistant",
+    "aiDescription": "Get instant help from our AI assistant"
+  }
+}

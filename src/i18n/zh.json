@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "首页",
+    "programs": "课程",
+    "cambridge": "剑桥国际课程",
+    "about": "关于我们",
+    "contact": "联系方式"
+  },
+  "hero": {
+    "title": "欢迎来到阳光学府",
+    "subtitle": "真正关心孩子成长与快乐的国际学校",
+    "cta": "了解更多"
+  },
+  "programs": {
+    "title": "我们的课程",
+    "primary": "小学教育",
+    "primaryDesc": "7-11岁儿童的全面小学教育",
+    "secondary": "中学教育",
+    "secondaryDesc": "12-18岁的剑桥国际课程路径",
+    "homeschool": "阳光家式教育",
+    "homeschoolDesc": "为家庭提供个性化学习解决方案"
+  },
+  "cambridge": {
+    "title": "剑桥国际课程",
+    "description": "国际普通中等教育证书",
+    "recognized": "全球公认的资格证书",
+    "subjects": "全面的科目选择",
+    "support": "专业师资支持"
+  },
+  "contact": {
+    "title": "联系我们",
+    "phone": "+60 12-425 1556",
+    "email": "LOVE@sun.edu.my",
+    "address": "马来西亚 41200 雪兰莪州巴生市 Jalan Mahogani 5/Ks7 2楼25号",
+    "followUs": "关注我们",
+    "whatsapp": "WhatsApp",
+    "directions": "获取路线"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "aiAssistant": "AI助手",
+    "aiDescription": "从我们的AI助手获得即时帮助"
+  }
+}

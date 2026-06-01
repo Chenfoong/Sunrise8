@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "programs": "Program",
+    "cambridge": "Cambridge IGCSE",
+    "about": "Tentang Kami",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "title": "Selamat Datang ke Sunrise Education",
+    "subtitle": "Sebuah sekolah antarabangsa yang benar-benar mengambil berat tentang pertumbuhan dan kebahagiaan anak",
+    "cta": "Pelajari Lebih Lanjut"
+  },
+  "programs": {
+    "title": "Program Kami",
+    "primary": "Pendidikan Rendah",
+    "primaryDesc": "Pendidikan rendah komprehensif untuk usia 7-11 tahun",
+    "secondary": "Pendidikan Menengah",
+    "secondaryDesc": "Laluan Cambridge IGCSE untuk usia 12-18 tahun",
+    "homeschool": "Sunrise Homeschool",
+    "homeschoolDesc": "Solusi pembelajaran yang dipersonalisasi untuk keluarga"
+  },
+  "cambridge": {
+    "title": "Cambridge IGCSE",
+    "description": "Sijil Pendidikan Menengah Umum Antarabangsa",
+    "recognized": "Kelayakan yang diiktiraf secara global",
+    "subjects": "Penawaran mata pelajaran yang komprehensif",
+    "support": "Sokongan tenaga pengajar pakar"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "phone": "+60 12-425 1556",
+    "email": "LOVE@sun.edu.my",
+    "address": "No. 25-2nd Floor, Jalan Mahogani 5/Ks7, 41200 Klang, Selangor, Malaysia",
+    "followUs": "Ikuti Kami",
+    "whatsapp": "WhatsApp",
+    "directions": "Dapatkan Arah"
+  },
+  "footer": {
+    "rights": "Hak cipta terpelihara",
+    "aiAssistant": "Pembantu AI",
+    "aiDescription": "Dapatkan bantuan segera dari pembantu AI kami"
+  }
+}
